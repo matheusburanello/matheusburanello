@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus✌
+## Olá! Bem-vindo, eu sou o Matheus..
 
 - 🌱 Estudando Javascript e banco de dados SQL
 - 😍 Apaixonado por tecnologia
