@@ -9,3 +9,4 @@ Olá! Sou apaixonado por tecnologia e estou em constante aprendizado. Tenho expe
 ## 🌐 Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheusburanello)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/_mtsburanello)
