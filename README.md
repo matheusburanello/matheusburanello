@@ -18,6 +18,14 @@ Olá! Sou apaixonado por tecnologia e estou em constante aprendizado. Tenho expe
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🛠️ Ferramentas que eu uso:
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 ## 📊 Contribuições:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusburanello&theme=tokyo-night)
