@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="teste_01_git.png" alt="Bem-vindo!" />
+  <img src="./Foto_git.jpeg" alt="Bem-vindo!" width="100%" />
 </p>
 
 <h1 align="center">Olá! 👋 Bem-vindo, meu nome é Matheus</h1>
-<p align="center">💻 Desenvolvedor em formação, apaixonado por tecnologia e soluções criativas.</p>
 
 ---
 
