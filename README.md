@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Foto_git.jpeg" alt="Bem-vindo!" width="100%" />
+  <img src="./capa_git.webp" alt="Bem-vindo!" width="100%" />
 </p>
 
 <h1 align="center">Olá! 👋 Bem-vindo, meu nome é Matheus</h1>
