@@ -17,22 +17,20 @@ Olá! Sou apaixonado por tecnologia e estou em constante aprendizado. Tenho expe
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  
-### 🚀 Tecnologias que uso
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin: 10px; border-radius: 12px; background-color: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin: 10px; border-radius: 12px; background-color: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin: 10px; border-radius: 12px; background-color: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin: 10px; border-radius: 12px; background-color: white; padding: 10px;" />
-</div>
+## 💻 Linguagens:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+## 🛠️ Ferramentas que eu uso:
 
-### 🧰 Ferramentas
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin: 10px; border-radius: 12px; background-color: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="margin: 10px; border-radius: 12px; background-color: white; padding: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" style="margin: 10px; border-radius: 12px; background-color: white; padding: 10px;" />
-</div>
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## 📊 Contribuições:
