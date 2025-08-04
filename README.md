@@ -1,8 +1,12 @@
-## Olá! Bem-vindo, eu sou o Matheus..
+<p align="center">
+  <img src="teste_01_git.png" alt="Bem-vindo!" />
+</p>
 
-- 🌱 Estudando Javascript e banco de dados SQL
-- 😍 Apaixonado por tecnologia
-- 📧 Contate-me no email: matheusburanello21@icloud.com
+<h1 align="center">Olá! 👋 Bem-vindo, meu nome é Matheus</h1>
+<p align="center">💻 Desenvolvedor em formação, apaixonado por tecnologia e soluções criativas.</p>
+
+---
+
 
 Olá! Sou apaixonado por tecnologia e estou em constante aprendizado. Tenho experiência com Python, desenvolvimento web com HTML e CSS, e atualmente estou me aprofundando em banco de dados. Sempre buscando evoluir com projetos práticos e novos desafios!
 
