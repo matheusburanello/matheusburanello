@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./capa_git.webp" alt="Bem-vindo!" width="100%" />
-</p>
-
 <h1 align="center">Olá! 👋 Bem-vindo, meu nome é Matheus</h1>
 
 ---
