@@ -3,7 +3,7 @@
 ---
 
 
-Olá! Sou apaixonado por tecnologia e estou em constante aprendizado. Tenho experiência com Python, desenvolvimento web com HTML e CSS, e atualmente estou me aprofundando em banco de dados. Sempre buscando evoluir com projetos práticos e novos desafios!
+Olá! Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Técnico em Desenvolvimento de Sistemas. Estou em transição de carreira para a área de Análise de Dados, com foco no aprendizado de Power BI, SQL e Python. Este espaço é dedicado ao registro dos meus estudos e à construção de projetos práticos, que representam minha evolução e interesse em transformar dados em informações relevantes.
 
 ## 🌐 Sociais:
 
