@@ -3,7 +3,7 @@
 ---
 
 
-Olá! Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Técnico em Desenvolvimento de Sistemas. Estou em transição de carreira para a área de Análise de Dados, com foco no aprendizado de Power BI, SQL e Python. Este espaço é dedicado ao registro dos meus estudos e à construção de projetos práticos, que representam minha evolução e interesse em transformar dados em informações relevantes.
+Olá! Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Técnico em Desenvolvimento de Sistemas. Com foco no aprendizado de Power BI, SQL e Python. Este espaço é dedicado ao registro dos meus estudos e à construção de projetos práticos, que representam minha evolução e interesse em transformar dados em informações relevantes.
 
 ## 🌐 Sociais:
 
