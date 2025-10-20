@@ -19,6 +19,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=matheusburanello&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusRocha&theme=tokyo-night&area=true&hide_border=true)
