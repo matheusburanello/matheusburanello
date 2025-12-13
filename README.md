@@ -19,4 +19,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusRocha&theme=tokyo-night&area=true&hide_border=true)
+
