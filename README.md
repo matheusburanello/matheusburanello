@@ -3,7 +3,7 @@
 ---
 
 
-🎓 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Técnico em Desenvolvimento de Sistemas. Tenho foco em Power BI, SQL e Python, com interesse especial na transformação de dados em informações valiosas. Este repositório é meu espaço para registrar estudos e compartilhar projetos práticos que acompanham minha evolução profissional.
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas. Tenho foco em Power BI, SQL e Python, com interesse especial na transformação de dados em informações valiosas. Este repositório é meu espaço para registrar estudos e compartilhar projetos práticos que acompanham minha evolução profissional.
 
 ## 🌐 Sociais:
 
